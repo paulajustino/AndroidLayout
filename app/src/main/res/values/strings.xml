@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidLayout</string>
+    <string name="job_description">Desenvolvedora Android</string>
+    <string name="cellphone_description">(19) 98404-3103</string>
+    <string name="email_description">rpaulaeduarda@gmail.com</string>
+    <string name="linkedin_description">/paula-eduarda-justino</string>
+    <string name="address_description">R. Maria Grassi Sinigaglia \nCampinas - SP</string>
+    <string name="logotipo_contentDescription">logotipo</string>
 </resources>
